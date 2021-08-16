@@ -1,0 +1,11 @@
+Setting up VR plugins & packages in Unity: https://www.youtube.com/watch?v=1VC3ZOxn2Lo
+00:00 - 06:30
+Setting up a VR Rig in Unity
+06:30 - 13:25
+
+Teleporting: https://www.youtube.com/watch?v=cxRnK8aIUSI
+How to Teleport in Unity VR using XR Interaction Toolkit | VR Teleportation
+
+Animating Hands: https://www.youtube.com/watch?v=DxKWq7z4Xao
+How to ANIMATE Hands in VR - Unity XR Beginner Tutorial (New Input System)
+
