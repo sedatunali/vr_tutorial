@@ -112,8 +112,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e25677c9ec4ada4f8d11fec680aa16c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  actionAsset: {fileID: 0}
-  rayInteractor: {fileID: 0}
+  actionAsset: {fileID: -944628639613478452, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+  rayInteractor: {fileID: 2236928148481049016}
+  provider: {fileID: 2236928148151252990}
 --- !u!1 &2236928148452292667
 GameObject:
   m_ObjectHideFlags: 0
